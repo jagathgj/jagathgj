@@ -1,10 +1,10 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Jagath Jayakumar</b>
 <br>
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/jagathgj/assets@master/assets/personalReadMeAssets/jj_logo.png" width="200"/>
+<img align="right" src="https://cdn.jsdelivr.net/gh/jagathgj/assets@95846301c60efcefdebd0112e938711aba541fb9/jj_logo.png" width="200"/>
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm [Jagath Jayakumar](https://jagath.me/), Front End developer from <img src="https://cdn.jsdelivr.net/gh/jagathgj/assets@master/assets/personalReadMeAssets/Flag-of-India.svg" width="14px"/> <b>Kerala, India</b>.</p>
+  I'm [Jagath Jayakumar](https://hellojagath.com/), Front End developer from <img src="https://cdn.jsdelivr.net/gh/jagathgj/assets@95846301c60efcefdebd0112e938711aba541fb9/Flag-of-India.svg" width="14px"/> <b>Kerala, India</b>.</p>
   
   A visual enthusiast having 11 years of professional experience in all kinds of UI/UX Development and Designing. I also have skills in other fields like Motion designing and 3D Art.
   	
@@ -49,7 +49,4 @@
 
 [![Jagath's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagathgj)](https://github.com/jagathgj/github-readme-stats)
 
-</span>
-<span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jagathgj&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
