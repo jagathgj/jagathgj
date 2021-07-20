@@ -3,8 +3,8 @@
 
 <img align="right" src="https://cdn.jsdelivr.net/gh/jagathgj/assets@95846301c60efcefdebd0112e938711aba541fb9/jj_logo.png" width="200"/>
 <p aligh="left">
-  <p>Hey there, welcome!</br>
-  I'm [Jagath Jayakumar](https://hellojagath.com/), Front End developer from <img src="https://cdn.jsdelivr.net/gh/jagathgj/assets@95846301c60efcefdebd0112e938711aba541fb9/Flag-of-India.svg" width="14px"/> <b>Kerala, India</b>.</p>
+  <p>Hey there, welcome! </br></br>
+  I'm [Jagath Jayakumar](https://hellojagath.com), Front End developer from <img src="https://cdn.jsdelivr.net/gh/jagathgj/assets@95846301c60efcefdebd0112e938711aba541fb9/Flag-of-India.svg" width="14px"/> <b>Kerala, India</b>.</p>
   
   A visual enthusiast having 11 years of professional experience in all kinds of UI/UX Development and Designing. I also have skills in other fields like Motion designing and 3D Art.
   	
