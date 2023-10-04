@@ -6,7 +6,7 @@
   <p>Hey there, welcome! </br></br>
   I'm <a style="color:#45b8d8" href="https://hellojagath.com" target="_blank"><u><b>Jagath Jayakumar</b></u></a>, Front End developer from <img src="https://cdn.jsdelivr.net/gh/jagathgj/assets@95846301c60efcefdebd0112e938711aba541fb9/Flag-of-India.svg" width="14px"/> <b>Kerala, India</b>.</p>
   
-  A visual enthusiast having 11 years of professional experience in all kinds of UI/UX Development and Designing. I also have skills in other fields like Motion designing and 3D Art.
+  A visual enthusiast having 13 years of professional experience in all kinds of UI/UX Development and Designing. I also have skills in other fields like Motion designing and 3D Art.
   	
   💡 &nbsp;Exploring new trends and technologies.\
   🌱 &nbsp;An avid learner of <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> and other JS based libraries/frameworks.\
