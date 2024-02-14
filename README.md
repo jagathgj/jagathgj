@@ -10,7 +10,7 @@
   	
   💡 &nbsp;Exploring new trends and technologies.\
   🌱 &nbsp;An avid learner of <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> and other JS based libraries/frameworks.\
-  ✍🏼 &nbsp;Aspiring storyteller.
+  ✍🏼 &nbsp;Storyteller.
 </p>
 <br>
 
